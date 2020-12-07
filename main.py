@@ -6,12 +6,6 @@ import svgwrite
 import math
 from svgwrite import cm, mm   
 
-focuserDiameterMm = 64.67
-
-
-
-
-
 class FocuserProtract():
     def __init__(self):
 
